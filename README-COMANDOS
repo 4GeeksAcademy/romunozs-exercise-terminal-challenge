@@ -1,0 +1,17 @@
+cd thecmdchallenge
+pwd
+ls -la 
+ls -R 
+clear
+ls -1 funcode/*.js can also be done by: cd .. && ls -l *.js
+mkdir funcode/the-most-funny/not-that-funny 
+cp /boringfolder/the-mostboring-text.txt /boringfolder/lol.txt 
+mv funcode/kids.jpg funcode/images/hello/
+rm -rf small-name
+cat the-ultimate-joke.txt
+cd boringfolder && rm -rf
+vi kamehameha/dragon-ball-jokes.md
+    Press g to go to the beginning of the file.
+    Press dG to delete the first line of the file.
+    Press :w to save the file.
+    Press :q to quit vi editor.
